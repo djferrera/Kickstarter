@@ -1,5 +1,5 @@
 # Kickstarter
-Columbia Data Analytics Boot Camp: First Homework Assignment
+Columbia Data Analytics Boot Camp: Excel Homework Assignment
 
 Three Kickstarter conclusions based on provided data:
 1.	Kickstarter campaign categories where you are most likely to experience success: Film & Video, Music, and Theater (NOTE: Film & Video is exclusive to the US. Music and Theater are both US and International).  Food, Journalism and Publishing tend to be failures.
